@@ -1,10 +1,10 @@
 ### Hi there, I'm Arnav  👋
 ## I'm a Student, Developer, and Gamer 🎮!
 
-- 🔭 I’m currently working on Angular 9 !
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: To complete AWS specialization
+- 🔭 I’m actively working on Angular 12, Reactjs, Nodejs, Python and Flutter.
+- 🌱 I’m currently learning Reactjs.
+- 👯 I’m looking to collaborate with other developers to build open source self hosted kanban board.
+- 🥅 2021Goals: To complete AWS specialization
 - ⚡ Fun fact: I love to draw and play guitar / piano
 
 ### Spotify Playing 🎧
