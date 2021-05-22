@@ -29,6 +29,8 @@
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Dart](https://img.shields.io/badge/-Dart-blue?style=flat-square&logo=dart)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+<img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
+<img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
