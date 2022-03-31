@@ -6,7 +6,8 @@
 - 👯 I’m looking to collaborate with other developers to build open source self hosted kanban board.
 - 🥅 2021 Goals: To complete AWS specialization
 - ⚡ Fun fact: I love to draw and play guitar / piano
-- ✍️ I also write articles so that I can give back to community. [medium](https://arnav40.medium.com/)
+- ✍️ My latest article [medium](https://arnav40.medium.com/)
+- 📚 I regularu write interesting stuff [medium](https://arnav40.medium.com/common-engineering-mistakes-new-software-developers-make-part-1-8ea350f6b908)
 ### Spotify Playing 🎧
 <img src="https://novatorem-sand.vercel.app/api/spotify-playing" alt="foxy Spotify Playing" width="350" />
 
