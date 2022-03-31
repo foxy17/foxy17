@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: To complete AWS specialization
 - ⚡ Fun fact: I love to draw and play guitar / piano
 - ✍️ My latest article [medium](https://arnav40.medium.com/)
-- 📚 I regularu write interesting stuff [medium](https://arnav40.medium.com/common-engineering-mistakes-new-software-developers-make-part-1-8ea350f6b908)
+- 📚 I regularly write interesting stuff [medium](https://arnav40.medium.com/common-engineering-mistakes-new-software-developers-make-part-1-8ea350f6b908)
 ### Spotify Playing 🎧
 <img src="https://novatorem-sand.vercel.app/api/spotify-playing" alt="foxy Spotify Playing" width="350" />
 
