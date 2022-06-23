@@ -10,7 +10,7 @@
 - ✍️ I regularly write interesting stuff [medium](https://arnav40.medium.com/)
 
 ### Spotify Playing 🎧
-<img src="https://novatorem-sand.vercel.app/api/spotify-playing" alt="foxy Spotify Playing" width="350" />
+<img src="https://novatorem-sand.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="foxy Spotify Playing" width="350" />
 
 ### Connect with me:
 
