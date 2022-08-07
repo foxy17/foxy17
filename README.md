@@ -1,13 +1,12 @@
 ### Hi there, I'm Arnav  👋
-## I'm a Student, Developer, and Gamer 🎮!
+## I'm a Frontend Developer and sometimes dabble in UI/UX. I also like building CI/CD pipelines for my projects.
 
-- 📚 My latest article [medium](https://arnav40.medium.com/common-engineering-mistakes-new-software-developers-make-part-1-8ea350f6b908)
-- 🔭 I’m actively working on React-native, Nodejs and Flutter.
-- 🌱 I’m currently learning Reactjs.
-- 👯 I’m looking to collaborate with other developers to build open source self hosted kanban board.
+- 📚 My latest article [dev.to](https://dev.to/foxy17/common-engineering-mistakes-new-software-developers-to-make-part-1-3p5b)
+- 🔭 I’m actively working on CI/CD, React and Flutter.
+- 🌱 I’m currently exploring React based frameworks.
 - 🥅 2021 Goals: To complete AWS specialization
 - ⚡ Fun fact: I love to draw and play guitar / piano
-- ✍️ I regularly write interesting stuff [medium](https://arnav40.medium.com/)
+- ✍️ I regularly write interesting stuff [dev.to](https://dev.to/foxy17)
 
 ### Spotify Playing 🎧
 <img src="https://novatorem-sand.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="foxy Spotify Playing" width="350" />
