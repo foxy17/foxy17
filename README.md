@@ -2,9 +2,9 @@
 ## I'm a Frontend Developer and sometimes dabble in UI/UX. I also like building CI/CD pipelines for my projects.
 
 - 📚 My latest article [dev.to](https://dev.to/foxy17/common-engineering-mistakes-new-software-developers-to-make-part-1-3p5b)
-- 🔭 I’m actively working on CI/CD, React and Flutter.
-- 🌱 I’m currently exploring React based frameworks.
-- 🥅 2021 Goals: To complete AWS specialization
+- 🔭 I’m actively working on React and Flutter.
+- 🌱 I’m currently working fulltime and freelancing.
+- 🥅 2022 Goals: To create something new 
 - ⚡ Fun fact: I love to draw and play guitar / piano
 - ✍️ I regularly write interesting stuff [dev.to](https://dev.to/foxy17)
 
