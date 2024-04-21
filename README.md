@@ -3,9 +3,9 @@
 
 - 📚 My latest article [dev.to](https://dev.to/foxy17/common-engineering-mistakes-new-software-developers-to-make-part-1-3p5b)
 - 🔭 I’m actively working on React and Flutter.
-- 🌱 I’m currently working fulltime and freelancing.
-- 🥅 2022 Goals: To create something new 
-- ⚡ Fun fact: I love to draw and play guitar / piano
+- 🌱 I’m currently working full-time and freelancing.
+- 🥅 2024 Goals: To work on more projects
+- ⚡ Fun fact: I play many instruments like drums, guitar and ukulele.
 - ✍️ I regularly write interesting stuff [dev.to](https://dev.to/foxy17)
 
 ### Spotify Playing 🎧
