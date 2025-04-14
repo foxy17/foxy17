@@ -19,8 +19,7 @@
 <br />
 <br />
 
-### I collect cool badges like Ash Ketchum: 
-<br />
+## I collect cool badges like Ash Ketchum: 
 <br />
 
 <!--START_SECTION:badges-->
@@ -30,7 +29,6 @@
 
 ---
 <img align="left" alt="arnav's Github Stats" src="https://github-readme-stats.vercel.app/api?username=foxy17&show_icons=true&hide_border=true&count_private=true" />
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxy17)](https://github.com/foxy17)
