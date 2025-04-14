@@ -17,6 +17,11 @@
 [<img align="left" alt="Yesidevelop | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][personal]
 
 <br />
+<br />
+
+### I collect cool badges like Ash Ketchum: 
+<br />
+<br />
 
 <!--START_SECTION:badges-->
 [![Google Prompting Essentials](https://images.credly.com/size/110x110/images/c72688c2-f32f-4f34-862d-a13a7c5f6294/blob)](http://www.credly.com/badges/ab3d2080-0440-4e03-8a1e-2feb68b854e5 "Google Prompting Essentials")
