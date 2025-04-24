@@ -1,5 +1,5 @@
 ### Hi there, I'm Arnav  👋
-## I'm a Frontend Developer and sometimes dabble in UI/UX. I also like building CI/CD pipelines for my projects.
+## I'm a Senior Frontend Engineer with a strong grasp of Backend and Infrastructure, known for solving complex problems across the full stack.
 
 - 📚 My website [carnav.in](https://www.carnav.in/)
 - 🔭 I’m actively working on building AI and Workflow based SAAS at [Clootrack](https://search.brave.com/search?q=clootrakc&source=desktop)
