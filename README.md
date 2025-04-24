@@ -2,8 +2,9 @@
 ## I'm a Frontend Developer and sometimes dabble in UI/UX. I also like building CI/CD pipelines for my projects.
 
 - 📚 My website [carnav.in](https://www.carnav.in/)
-- 🔭 I’m actively working on building AI and Workflow based SAAS.
-- 🌱 I’m currently working full-time and also help out fronders with technical problem consulting.
+- 🔭 I’m actively working on building AI and Workflow based SAAS at [Clootrack](https://search.brave.com/search?q=clootrakc&source=desktop)
+- 🔥 Open Source currently contributing to [VoltAgent](https://github.com/VoltAgent/voltagent) for building and orchestrating AI agents.
+- 🌱 I’m currently working full-time and also help out founders with technical problem consulting.
 - 🥅 2025 Goals: To finish the side projects i started in 2024, haha.
 - ⚡ Fun fact: I play many instruments like drums, guitar and ukulele.
 - ✍️ I regularly write interesting stuff [dev.to](https://dev.to/foxy17)
